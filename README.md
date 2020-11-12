@@ -4,7 +4,7 @@
 
 #### *Español*
 
-* Soft Computing and Intelligent Information Systems Universidad de Granada:
+* Soft Computing and Intelligent Information Systems group - Universidad de Granada:
     
     * Algorítmica (https://sci2s.ugr.es/graduateCourses/Algoritmica)
     
