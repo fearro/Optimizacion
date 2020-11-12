@@ -1,5 +1,21 @@
 ## Optimización
 
+### Formación académica
+
+#### Español
+
+* Soft Computing and Intelligent Information Systems Universidad de Granada:
+    
+    * Algorítmica (https://sci2s.ugr.es/graduateCourses/Algoritmica)
+    
+    * Bioinformática (https://sci2s.ugr.es/graduateCourses/bioinformatica)
+    
+    * Metaheurísticas (https://sci2s.ugr.es/graduateCourses/Metaheuristicas)
+    
+    * Introducción a los Algoritmos Metaheurísticos (https://sci2s.ugr.es/otherCourses/Metaheuristicas)
+
+### Inglés
+
 ### Canales de Youtube
 
 * CaCheme (https://www.youtube.com/user/CAChemEorg/playlists)
