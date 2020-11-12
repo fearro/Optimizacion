@@ -2,7 +2,7 @@
 
 ### Formación académica
 
-#### Español
+#### *Español*
 
 * Soft Computing and Intelligent Information Systems Universidad de Granada:
     
@@ -14,7 +14,7 @@
     
     * Introducción a los Algoritmos Metaheurísticos (https://sci2s.ugr.es/otherCourses/Metaheuristicas)
 
-### Inglés
+#### *Inglés*
 
 ### Canales de Youtube
 
