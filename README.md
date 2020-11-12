@@ -35,3 +35,11 @@
 * OR-Tools (Google)
 
 * HorusLP
+
+* DEAP (algoritmos genéticos)
+
+* pyeasyga (algoritmos genéticos)
+
+* Pyvolution (algoritmos genéticos)
+
+* EvoloPy (varias metaheurísticas)
