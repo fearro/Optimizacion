@@ -15,6 +15,8 @@
 
 * decide4AI (https://decidesoluciones.es/blog/)
 
+* Baobab soluciones (https://baobabsoluciones.es/blog/)
+
 
 ### Paquetes Python
 
