@@ -26,6 +26,8 @@
 
 * Herramientas de modelación (https://www.youtube.com/playlist?list=PLxbXsIEaf05qoCU53arF1aFC66Z-cxM0u)
 
+* Daniel Gutiérrez Reina - Univ. Sevilla (parte 1: https://www.youtube.com/watch?v=jKAfZey4OYQ; parte 2: https://www.youtube.com/watch?v=oCzIEE-Sui8)
+
 
 ### Blogs
 
