@@ -18,9 +18,13 @@
 
 * Metaheurísticas. Algoritmos Heurísticos Inteligentes - Univ. La Laguna (https://campusvirtual.ull.es/ocw/course/view.php?id=118)
 
+* Técnicas de Investigación Operativa en Ingeniería - Univ. Politécnica de Madrid (http://ocw.upm.es/course/tecnicas-investigacion-operativa-1ngenieria)
+
 #### *Inglés*
 
 * Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
+
+
 
 ### Canales de Youtube
 
