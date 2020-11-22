@@ -18,6 +18,8 @@
 
 #### *Inglés*
 
+* Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
+
 ### Canales de Youtube
 
 * CaCheme (https://www.youtube.com/user/CAChemEorg/playlists)
