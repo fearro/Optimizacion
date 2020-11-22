@@ -24,6 +24,10 @@
 
 * Investigación Operativa - Univ. Buenos Aires (https://campus.fi.uba.ar/course/view.php?id=187)
 
+* Introducción a la Investigación de Operaciones - Univ. Nacional de La Plata (https://aulavirtual.agro.unlp.edu.ar/course/view.php?id=153)
+
+* Investigación Operativa - Univ. Nacional de La Plata (https://aulavirtual.agro.unlp.edu.ar/course/view.php?id=3)
+
 #### *Inglés*
 
 * Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
