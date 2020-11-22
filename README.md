@@ -22,6 +22,8 @@
 
 * Modelos de Investigación Operativa - Univ. Zaragoza (https://ocw.unizar.es/ocw/course/view.php?id=17)
 
+* Investigación Operativa - Univ. Buenos Aires (https://campus.fi.uba.ar/course/view.php?id=187)
+
 #### *Inglés*
 
 * Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
