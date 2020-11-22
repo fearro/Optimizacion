@@ -63,3 +63,8 @@
 * Pyvolution (algoritmos genéticos)
 
 * EvoloPy (varias metaheurísticas)
+
+### Otras webs
+
+* Sociedad de Estadística e Investigación Operativa (SEIO) (http://www.seio.es/)
+
