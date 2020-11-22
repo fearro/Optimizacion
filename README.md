@@ -28,6 +28,8 @@
 
 * Investigación Operativa - Univ. Nacional de La Plata (https://aulavirtual.agro.unlp.edu.ar/course/view.php?id=3)
 
+* Metodos de Optimización y Algoritmos Genéticos -  Univ. Los Andes (https://laboratoriomatematicas.uniandes.edu.co/metodos/contenido/contenido/slides.html)
+
 #### *Inglés*
 
 * Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
