@@ -14,6 +14,8 @@
     
     * Introducción a los Algoritmos Metaheurísticos (https://sci2s.ugr.es/otherCourses/Metaheuristicas)
 
+* Investigación Operativa, 2011 - Universidad Carlos III Madrid (uc3m) (http://ocw.uc3m.es/estadistica/investigacion-operativa)
+
 #### *Inglés*
 
 ### Canales de Youtube
