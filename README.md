@@ -20,6 +20,8 @@
 
 * Técnicas de Investigación Operativa en Ingeniería - Univ. Politécnica de Madrid (http://ocw.upm.es/course/tecnicas-investigacion-operativa-1ngenieria)
 
+* Modelos de Investigación Operativa - Univ. Zaragoza (https://ocw.unizar.es/ocw/course/view.php?id=17)
+
 #### *Inglés*
 
 * Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
