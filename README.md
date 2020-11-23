@@ -50,6 +50,8 @@
 
 * Daniel Gutiérrez Reina - Univ. Sevilla (parte 1: https://www.youtube.com/watch?v=jKAfZey4OYQ; parte 2: https://www.youtube.com/watch?v=oCzIEE-Sui8)
 
+* Introducción a la Ingeniería del Software Guiada por Búsqueda - Univ. Almería (parte 1: https://www.youtube.com/watch?v=1D5GVWPLpXc; parte 2:https://www.youtube.com/watch?v=QFJpS8T5De0)
+
 <br>
 
 ### Blogs
