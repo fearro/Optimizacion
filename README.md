@@ -24,6 +24,8 @@
 
 * Investigación Operativa - Univ. Buenos Aires (https://campus.fi.uba.ar/course/view.php?id=187)
 
+* Modelos y Optimización I - Univ. Buenos Aires (http://materias.fi.uba.ar/7114/)
+
 * Introducción a la Investigación de Operaciones - Univ. Nacional de La Plata (https://aulavirtual.agro.unlp.edu.ar/course/view.php?id=153)
 
 * Investigación Operativa - Univ. Nacional de La Plata (https://aulavirtual.agro.unlp.edu.ar/course/view.php?id=3)
