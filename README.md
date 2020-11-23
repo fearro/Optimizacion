@@ -36,7 +36,7 @@
 
 * Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
 
-
+<br>
 
 ### Canales de Youtube
 
@@ -50,6 +50,7 @@
 
 * Daniel Gutiérrez Reina - Univ. Sevilla (parte 1: https://www.youtube.com/watch?v=jKAfZey4OYQ; parte 2: https://www.youtube.com/watch?v=oCzIEE-Sui8)
 
+<br>
 
 ### Blogs
 
@@ -57,6 +58,7 @@
 
 * Baobab soluciones (https://baobabsoluciones.es/blog/)
 
+<br>
 
 ### Paquetes Python
 
