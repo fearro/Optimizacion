@@ -42,6 +42,14 @@
 
 * Basic Modeling for Discrete Optimization (https://es.coursera.org/learn/basic-modeling)
 
+* Advanced Modeling for Discrete Optimization (https://www.coursera.org/learn/advanced-modeling)
+
+* Solving Algorithms for Discrete Optimization (https://www.coursera.org/learn/solving-algorithms-discrete-optimization)
+
+* Operations Analytics (https://www.coursera.org/learn/wharton-operations-analytics)
+
+* Business Analytics for Decision Making (https://www.coursera.org/learn/business-analytics-decision-making)
+
 ##### edX
 
 * Optimization: principles and algorithms - Linear optimization (https://www.edx.org/es/course/linear-optimization)
@@ -53,6 +61,8 @@
 * Convex Optimization (https://www.edx.org/es/course/convex-optimization)
 
 * Operations Research: an Active Learning Approach (https://www.edx.org/es/course/operations-research-an-active-approach)
+
+* Optimization Methods for Business Analytics (https://www.edx.org/course/optimization-methods-for-business-analytics)
 
 <br>
 
