@@ -1,6 +1,6 @@
 ## Optimización
 
-### Formación académica
+### Formación
 
 #### *Español*
 
