@@ -36,6 +36,24 @@
 
 * Metaheuristic Optimization - Institute of Applied Optimization (http://iao.hfuu.edu.cn/teaching/lectures/metaheuristic-optimization)
 
+##### Coursera
+
+* Discrete Optimization (https://es.coursera.org/learn/discrete-optimization)
+
+* Basic Modeling for Discrete Optimization (https://es.coursera.org/learn/basic-modeling)
+
+##### edX
+
+* Optimization: principles and algorithms - Linear optimization (https://www.edx.org/es/course/linear-optimization)
+
+* Optimization: principles and algorithms - Unconstrained nonlinear optimization (https://www.edx.org/es/course/unconstrained-nonlinear-optimization)
+
+* Optimization: principles and algorithms - Network and discrete optimization (https://www.edx.org/es/course/network-and-discrete-optimization)
+
+* Convex Optimization (https://www.edx.org/es/course/convex-optimization)
+
+* Operations Research: an Active Learning Approach (https://www.edx.org/es/course/operations-research-an-active-approach)
+
 <br>
 
 ### Canales de Youtube
