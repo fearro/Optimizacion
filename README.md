@@ -66,7 +66,7 @@
 
 <br>
 
-### Canales de Youtube
+### Canales/videos de Youtube
 
 * CaCheme (https://www.youtube.com/user/CAChemEorg/playlists)
 
@@ -79,6 +79,10 @@
 * Daniel Gutiérrez Reina - Univ. Sevilla (parte 1: https://www.youtube.com/watch?v=jKAfZey4OYQ; parte 2: https://www.youtube.com/watch?v=oCzIEE-Sui8)
 
 * Introducción a la Ingeniería del Software Guiada por Búsqueda - Univ. Almería (parte 1: https://www.youtube.com/watch?v=1D5GVWPLpXc; parte 2: https://www.youtube.com/watch?v=QFJpS8T5De0)
+
+* José Manuel Galán (https://www.youtube.com/channel/UCdyoG8-b6G7aLkYb800x6ww/playlists)
+
+* Carlos Monardes (https://www.youtube.com/user/cmonardes/playlists)
 
 <br>
 
