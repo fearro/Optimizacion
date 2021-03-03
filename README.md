@@ -50,6 +50,10 @@
 
 * Business Analytics for Decision Making (https://www.coursera.org/learn/business-analytics-decision-making)
 
+* Operations Research (1): Models and Applications (https://www.coursera.org/learn/operations-research-modeling)
+
+* Operations Research (2): Optimization Algorithms (https://www.coursera.org/learn/operations-research-algorithms)
+
 ##### edX
 
 * Optimization: principles and algorithms - Linear optimization (https://www.edx.org/es/course/linear-optimization)
