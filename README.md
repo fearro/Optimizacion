@@ -68,6 +68,8 @@
 
 * Optimization Methods for Business Analytics (https://www.edx.org/course/optimization-methods-for-business-analytics)
 
+* Mathematical Optimization for Engineers (https://www.edx.org/course/mathematical-optimization-for-engineers)
+
 <br>
 
 ### Canales/videos de Youtube
