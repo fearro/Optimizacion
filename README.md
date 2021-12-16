@@ -98,6 +98,8 @@
 
 * Baobab soluciones (https://baobabsoluciones.es/blog/)
 
+* Ingeniería Industrial Online (https://www.ingenieriaindustrialonline.com/investigacion-de-operaciones/)
+
 <br>
 
 ### Paquetes Python
