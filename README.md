@@ -100,6 +100,8 @@
 
 * Ingeniería Industrial Online (https://www.ingenieriaindustrialonline.com/investigacion-de-operaciones/)
 
+* SCM Data (https://www.supplychaindataanalytics.com/es/)
+
 <br>
 
 ### Paquetes Python
