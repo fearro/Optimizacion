@@ -102,6 +102,8 @@
 
 * SCM Data (https://www.supplychaindataanalytics.com/es/)
 
+* Informs (https://www.informs.org/Publications/OR-MS-Tomorrow)
+
 <br>
 
 ### Paquetes Python
@@ -131,6 +133,21 @@
 * Pyvolution (algoritmos genéticos)
 
 * EvoloPy (varias metaheurísticas)
+
+
+### Paquetes R
+
+* lpSolve (programación lineal y entera)
+
+* ompr (programación lineal, entera y mixta)
+
+* Rglpk (programación lineal, entera y mixta)
+
+* nloptr (progrmación no lineal)
+
+* rmoo (optimización multiobjetivo)
+
+* metaheuristicOpt (optimizaciónn metaheurística)
 
 <br>
 
