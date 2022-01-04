@@ -56,6 +56,8 @@
 
 ##### edX
 
+* Introducción a la optimización (https://www.edx.org/es/course/introduccion-a-la-optimizacion)
+
 * Optimization: principles and algorithms - Linear optimization (https://www.edx.org/es/course/linear-optimization)
 
 * Optimization: principles and algorithms - Unconstrained nonlinear optimization (https://www.edx.org/es/course/unconstrained-nonlinear-optimization)
