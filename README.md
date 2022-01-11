@@ -92,6 +92,8 @@
 
 * Carlos Monardes (https://www.youtube.com/user/cmonardes/playlists)
 
+* El Aprendiz Informático (Programación lineal: https://www.youtube.com/playlist?list=PLQcStLbd6ELMm-lyz5JsGkv5ObiMXI678; Investigación Operativa: https://www.youtube.com/playlist?list=PLQcStLbd6ELO6pptfaEALqX3Z_-XzMMVO)
+
 <br>
 
 ### Blogs
