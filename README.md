@@ -153,7 +153,7 @@
 
 * rmoo (optimización multiobjetivo)
 
-* metaheuristicOpt (optimizaciónn metaheurística)
+* metaheuristicOpt (optimización metaheurística)
 
 <br>
 
