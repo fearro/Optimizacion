@@ -130,7 +130,7 @@
 
 * HorusLP
 
-* DEAP (algoritmos genéticos)
+* DEAP (algoritmos evolutivos)
 
 * pyeasyga (algoritmos genéticos)
 
@@ -148,6 +148,8 @@
 * Rglpk (programación lineal, entera y mixta)
 
 * nloptr (progrmación no lineal)
+
+* ecr (algoritmos evolutivos, similar a DEAP para python)
 
 * rmoo (optimización multiobjetivo)
 
