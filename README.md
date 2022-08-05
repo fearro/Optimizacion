@@ -108,6 +108,8 @@
 
 * Informs (https://www.informs.org/Publications/OR-MS-Tomorrow)
 
+* FELOOP (https://ktafakkori.github.io/)
+
 <br>
 
 ### Paquetes Python
