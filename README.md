@@ -134,6 +134,8 @@
 
 * DEAP (algoritmos evolutivos)
 
+* PyGAD (algoritmos genéticos)
+
 * pyeasyga (algoritmos genéticos)
 
 * Pyvolution (algoritmos genéticos)
