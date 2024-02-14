@@ -110,6 +110,12 @@
 
 * FELOOP (https://ktafakkori.github.io/)
 
+* Gurobi Blog (https://www.gurobi.com/blog/)
+
+* Feasible (https://feasible.substack.com/)
+
+* Optano (https://optano.com/en/blog/)
+
 <br>
 
 ### Paquetes Python
