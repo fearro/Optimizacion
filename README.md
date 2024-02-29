@@ -148,6 +148,8 @@
 
 * EvoloPy (varias metaheurísticas)
 
+* FelooPy (entorno de optimización integrado)
+
 
 ### Paquetes R
 
